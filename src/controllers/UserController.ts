@@ -1,6 +1,5 @@
 import { Controller } from "../decorators/Controller";
 import { Get, Post } from "../decorators/Route";
-import { Body } from "../decorators/Body";
 import { Request, Response } from "express";
 
 @Controller("/users")
