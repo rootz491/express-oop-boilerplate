@@ -20,8 +20,8 @@ Before running this application, make sure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/rootz491/express-oop-boilerplate
+   cd express-oop-boilerplate
    ```
 
 2. **Install dependencies:**
