@@ -9,7 +9,7 @@
 		"build": "tsc"
 	},
 	"dependencies": {
-		"express": "^4.19.2",
+		"express": "^4.20.0",
 		"reflect-metadata": "^0.2.2"
 	},
 	"devDependencies": {
